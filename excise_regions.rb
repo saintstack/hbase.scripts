@@ -14,6 +14,7 @@
 #
 #  ${HBASE_HOME}/bin/hbase org.jruby.Main excise_regions.rb
 #
+# Probably only works with 0.20.x HBase
 
 #
 # Copyright 2010 The Apache Software Foundation

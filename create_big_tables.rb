@@ -21,7 +21,8 @@
 #
 #   ./bin/hbase org.jruby.Main THIS_SCRIPT.rb
 #
-
+# @since 0.90.2 HBase.
+#
 require 'optparse'
 include Java
 import org.apache.hadoop.hbase.HConstants
